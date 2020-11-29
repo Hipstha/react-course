@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "200"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "100"
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "201",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "189",
+      "id": 5
+    },
+    {
+      "nombre": "jugo de piña",
+      "precio": 30,
+      "id": 6
+    },
+    {
+      "nombre": "cocaína 10g",
+      "precio": 1000,
+      "id": 8
+    },
+    {
+      "nombre": "asdf",
+      "precio": 400,
+      "id": 9
+    }
+  ]
+}
